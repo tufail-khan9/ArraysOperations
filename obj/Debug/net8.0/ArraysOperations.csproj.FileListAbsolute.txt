@@ -1,0 +1,14 @@
+D:\ConsoleApp\ArraysOperations\ArraysOperations\bin\Debug\net8.0\ArraysOperations.exe
+D:\ConsoleApp\ArraysOperations\ArraysOperations\bin\Debug\net8.0\ArraysOperations.deps.json
+D:\ConsoleApp\ArraysOperations\ArraysOperations\bin\Debug\net8.0\ArraysOperations.runtimeconfig.json
+D:\ConsoleApp\ArraysOperations\ArraysOperations\bin\Debug\net8.0\ArraysOperations.dll
+D:\ConsoleApp\ArraysOperations\ArraysOperations\bin\Debug\net8.0\ArraysOperations.pdb
+D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ArraysOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ArraysOperations.AssemblyInfoInputs.cache
+D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ArraysOperations.AssemblyInfo.cs
+D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ArraysOperations.csproj.CoreCompileInputs.cache
+D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ArraysOperations.dll
+D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\refint\ArraysOperations.dll
+D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ArraysOperations.pdb
+D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ArraysOperations.genruntimeconfig.cache
+D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ref\ArraysOperations.dll
