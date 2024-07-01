@@ -204,6 +204,9 @@ namespace ArraysOperations
         //    }
         //}
 
-       
+        public void Change()
+        {
+            Console.WriteLine("hi this tufail");
+        }
     }
 }
