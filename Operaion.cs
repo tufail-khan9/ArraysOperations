@@ -203,5 +203,10 @@ namespace ArraysOperations
         //        }
         //    }
         //}
+
+        public void Change()
+        {
+
+        }
     }
 }
