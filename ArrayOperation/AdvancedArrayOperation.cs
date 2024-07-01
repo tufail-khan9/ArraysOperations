@@ -182,8 +182,8 @@ namespace ArraysOperations.ArrayOperation
         //    Console.WriteLine("Enter Price");
         //    float price = float.Parse(Console.ReadLine());
         //    double factorial = 1.0;
-        //    for(int i = 1; i <= price; ++i) 
-        //    { 
+        //    for (int i = 1; i <= price; ++i)
+        //    {
         //        factorial *= i;
         //        //the above factorial *= i mean factorial = factorial * 1
 

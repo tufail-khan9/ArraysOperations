@@ -12,3 +12,4 @@ D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\refint\ArraysOp
 D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ArraysOperations.pdb
 D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ArraysOperations.genruntimeconfig.cache
 D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ref\ArraysOperations.dll
+D:\ConsoleApp\ArraysOperations\ArraysOperations\obj\Debug\net8.0\ArraysOperations.sourcelink.json
